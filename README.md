@@ -21,3 +21,7 @@
 - Phản hồi bình luận
 - Phản hồi liên hệ của người dùng (qua email)
 - xem doanh thu theo từng tháng , từng năm
+## Một số hình ảnh
+![img_demo1](img1.png)
+![img_demo2](img2.png)
+![img_demo3](img3.png)
