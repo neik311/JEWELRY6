@@ -1,4 +1,4 @@
-## Web đề tài bán thú cưng
+## Web đề tài bán trang sức
 - Sử dụng ngôn ngữ Java JDK17, Bootstrap 4 , Spring MVC 4.0.1 , Tomcat v9.0 , SQL Server 2014
 ## Sinh viên thực hiện
 - Nguyễn Lam Trường – N19DCCN218
